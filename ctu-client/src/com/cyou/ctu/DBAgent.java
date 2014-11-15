@@ -5,6 +5,7 @@ import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.cyou.ctu.common.DBUtil;
+import com.cyou.ctu.common.spring.DBContextHolder;
 
 public class DBAgent {
 
